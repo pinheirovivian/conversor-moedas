@@ -1,0 +1,44 @@
+body {
+    background: #6d8d8c;
+    background-attachment: fixed;
+    font: 300 18px/1.6 Source Sans Pro, sans-serif;
+    text-align: center;
+    margin: 10;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .container {
+      background-color: #ffffff;
+      width: 400px;
+      padding: 50px;
+      margin: auto;
+      border-radius: 30px;
+      box-shadow: 5px 5px 15px #616161;
+  }
+  
+  .page-title { 
+    color: #616161;
+    margin: auto;
+    font-size: 30px;
+  }
+  
+  input,
+  select {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+  }
+
+  label {
+    color: #616161;
+  }
+  
+  button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 15px;
+    background: #6d8d8c;
+    color: #ffffff;
+    font: Source Sans Pro, sans-serif
+  }
